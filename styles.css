@@ -32,11 +32,11 @@ body {
   font-size: 50px;
   color: rgba(255, 255, 255, 0.633);
   text-shadow: 0px 0px 15px #ffffff;
-  transform: scaleX(1.5);
+  transform: scaleX(1.2);
   letter-spacing: 10px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1400px) {
   #myText {
     font-size: 40px;
     letter-spacing: 8px;
